@@ -1,0 +1,7 @@
+job-dsl:1.65
+structs:1.10
+git-client:2.5.0
+workflow-aggregator:2.5
+git:3.5.1
+scm-api:2.2.1
+test-results-analyzer:0.3.4
